@@ -4,15 +4,16 @@
   text-align: center;
 }
 
-.band-bio {
+.container {
   display: flex;
   justify-content: center;
 }
 
-.band-bio p {
-
+.container p {
+  font-family: 'Hind', sans-serif;
+  font-size: 25px;
 }
 
-.band-bio img {
+.container img {
   width: 50%;
 }

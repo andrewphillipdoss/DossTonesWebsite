@@ -14,6 +14,14 @@
   font-size: 25px;
 }
 
-.container img {
-  width: 50%;
+img {
+  width: 50vh;
+}
+
+.image-container {
+  width: 100%;
+}
+
+#band-image {
+  width:100vh;
 }

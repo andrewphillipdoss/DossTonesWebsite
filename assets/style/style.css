@@ -1,0 +1,18 @@
+.band-title-header {
+  font-size: 50px;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+}
+
+.band-bio {
+  display: flex;
+  justify-content: center;
+}
+
+.band-bio p {
+
+}
+
+.band-bio img {
+  width: 50%;
+}
